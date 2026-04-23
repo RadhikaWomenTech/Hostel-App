@@ -1,0 +1,11 @@
+{
+  "name": "Vrindavan Girl's Hostel",
+  "description": "A comprehensive management and booking app for Vrindavan Girl's Hostel in Kanpur, featuring room booking, maintenance requests, and student announcements.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "auth",
+    "database"
+  ]
+}
